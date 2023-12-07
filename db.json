@@ -1,0 +1,100 @@
+{
+  "clothes": [
+    {
+      "clothesName": "Джинсы",
+      "clothesImage": "https://gapfactoryprod.a.bigcontent.io/v1/static/090423_MDPRefreshSite_SiteDP_V1_7358_SA1576_1A_MOB",
+      "clothesPrice": "1499",
+      "id": 1
+    },
+    {
+      "clothesName": "Водолазка",
+      "clothesImage": "https://optommodno.com/wp-content/uploads/2021/05/mds3.jpg",
+      "clothesPrice": "1000",
+      "id": 2
+    },
+    {
+      "clothesName": "Рубашка",
+      "clothesImage": "https://you-look.by/wp-content/uploads/2020/10/muzhskoj-kezhual-stil-34-1.jpg",
+      "clothesPrice": "777",
+      "id": 3
+    },
+    {
+      "clothesName": "Мужские туфли",
+      "clothesImage": "https://legessy.ua/image/cache/catalog/shoes/onyxzamsha/img_2798-960x1200.jpg",
+      "clothesPrice": "4000",
+      "id": 4
+    },
+    {
+      "clothesName": "Трекинговая обувь",
+      "clothesImage": "https://img.joomcdn.net/150bdce2dc557b081c580d58b662982517b6a3a9_original.jpeg",
+      "clothesPrice": "6000",
+      "id": 5
+    },
+    {
+      "clothesName": "Худи",
+      "clothesImage": "https://shop-cdn1-2.vigbo.tech/shops/64532/products/21146726/images/2-6b0ca9b7bcbe7fe30b381bd610c7edd9.jpg",
+      "clothesPrice": "2000",
+      "id": 6
+    },
+    {
+      "clothesName": "Осеняя куртка",
+      "clothesImage": "https://cdn.columbia.ru/upload/mdm/media_content/resize/240/1000_1000_0e75/60560170299.jpg",
+      "clothesPrice": "5000",
+      "id": 7
+    },
+    {
+      "clothesName": "Худи",
+      "clothesImage": "https://www.next.us/nxtcms/resource/blob/5791586/ee0fc6a294be647924fa5f5e7e3df8e9/hoodies-data.jpg",
+      "clothesPrice": "1200",
+      "id": 8
+    },
+    {
+      "clothesName": "Джинсы",
+      "clothesImage": "https://gapfactoryprod.a.bigcontent.io/v1/static/090423_MDPRefreshSite_SiteDP_V1_7358_SA1576_1A_MOB",
+      "clothesPrice": "1499",
+      "id": 9
+    },
+    {
+      "clothesName": "Куртка",
+      "clothesImage": "https://avatars.mds.yandex.net/i?id=5fa22bb64834f19ebf101308239ec4d03fc70718-10967292-images-thumbs&n=13",
+      "clothesPrice": "3599",
+      "id": 10
+    },
+    {
+      "clothesName": "Куртка",
+      "clothesImage": "https://avatars.mds.yandex.net/i?id=116bc12384b0d3c5248f15fbb9e9c20e82344139-9270567-images-thumbs&n=13",
+      "clothesPrice": "3990",
+      "id": 11
+    },
+    {
+      "clothesName": "Зимняя куртка",
+      "clothesImage": "https://avatars.mds.yandex.net/i?id=a0fb186a7d7cdd019c05d1541199356d-4113845-images-thumbs&n=13",
+      "clothesPrice": "5599",
+      "id": 12
+    },
+    {
+      "clothesName": "Штаны",
+      "clothesImage": "https://ae04.alicdn.com/kf/HTB1KQoZXdfvK1RjSspoq6zfNpXaL.jpg",
+      "clothesPrice": "2490",
+      "id": 13
+    },
+    {
+      "clothesName": "Штаны",
+      "clothesImage": "https://avatars.mds.yandex.net/i?id=28973495ea48d5608b6c59d70b32e66eab0530a4-6220423-images-thumbs&ref=rim&n=33&w=250&h=250",
+      "clothesPrice": "2690",
+      "id": 14
+    },
+    {
+      "clothesName": "Куртка",
+      "clothesImage": "https://avatars.mds.yandex.net/i?id=ae1de25e25a4227c7b47c7e0388f4dfb17b8c5a6-6436951-images-thumbs&n=13",
+      "clothesPrice": "5000",
+      "id": 15
+    },
+    {
+      "clothesName": "джинсы",
+      "clothesImage": "https://gapfactoryprod.a.bigcontent.io/v1/static/090423_MDPRefreshSite_SiteDP_V1_7358_SA1576_1A_MOB",
+      "clothesPrice": "2999",
+      "id": 16
+    }
+  ]
+}
